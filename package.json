@@ -1,0 +1,17 @@
+{
+  "name": "gallery",
+  "version": "0.0.0",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "grunt-browserify2": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-jst": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-open": "*",
+    "connect-livereload": "*",
+    "matchdep": "*"
+  }
+}

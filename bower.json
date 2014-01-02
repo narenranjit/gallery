@@ -1,0 +1,9 @@
+{
+  "name": "gallery",
+  "version": "0.0.0",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "sass-bootstrap": "~3.0.2"
+  }
+}
+
